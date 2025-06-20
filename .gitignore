@@ -1,0 +1,17 @@
+# Dependencias
+node_modules/
+
+# Build
+dist/
+
+# Archivos temporales
+.env.local
+.env.*.local
+
+# Archivos del sistema
+.DS_Store
+*.log
+
+# Lock files alternativos (usa solo uno según tu gestor)
+yarn.lock
+pnpm-lock.yaml
